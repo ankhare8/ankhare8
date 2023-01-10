@@ -1,7 +1,7 @@
 👋Hi, I'm Anshita. I'm a computer science student who loves to create things and solve problems.
 
-💻 Check out my website: https://anshitakhare.com
-👤 Connect with me on LinkedIn: https://www.linkedin.com/in/an-khare-1051a4260
+💻 Check out my website: https://anshitakhare.com <br>
+👤 Connect with me on LinkedIn: https://www.linkedin.com/in/an-khare-1051a4260<br>
 📧 Send me an email: ankhare8@gmail.com
 
 🛠️Skills: 
