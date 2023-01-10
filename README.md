@@ -1,4 +1,5 @@
-👋Hi, I'm Anshita. I'm a computer science student who loves to create things and solve problems.
+<h1> 👋Hi, I'm Anshita. </h1>
+I'm a computer science student who loves to create things and solve problems.
 
 💻 Check out my website: https://anshitakhare.com <br>
 👤 Connect with me on LinkedIn: https://www.linkedin.com/in/an-khare-1051a4260<br>
