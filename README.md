@@ -5,6 +5,6 @@
 📧 Send me an email: ankhare8@gmail.com
 
 🛠️Skills: <br>
-•Languages: Python, Java, JavaScript, HTML, CSS
-•Libraries and Frameworks: React, jQuery, Bootstrap, Node.js, Flask
+•Languages: Python, Java, JavaScript, HTML, CSS <br>
+•Libraries and Frameworks: React, jQuery, Bootstrap, Node.js, Flask <br>
 •Other Tools: Git, Shell Scripting, Adobe Photoshop & Illustrator, Unity
